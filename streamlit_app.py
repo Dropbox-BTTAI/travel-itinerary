@@ -77,6 +77,23 @@ with st.form("final_itinerary_form"):
         regenerated = st.form_submit_button("Save Text")
     # add on-click actions for forms 
 
+# edit button color
+st.markdown("""
+    <style>
+    div.stButton > button:first-child {
+        background-color: #456990;
+        color: #D8E1EB;
+        border-radius:10px 10px 10px 10px;
+        height: 3em;
+        width: 15em;
+    }
+    div.stButton > button:hover {
+        background-color: #7293b9;
+        color: #ffffff;
+        }
+    </style>
+    """, unsafe_allow_html=True)
+
 # as something nice to have for project, can add these features at end once everything else is finalized 
 st.text(" ")
 st.subheader("Next Steps")
