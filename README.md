@@ -2,7 +2,7 @@
 
 UI Framework for our travel website. Users will be able to input a pdf, text, and more to our bot that will then be able to output a travel itinerary. There will also be a recommendations section to allow users to see nearby activities and restaurants. The data will be focused on New York City. 
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://https://travel-itinerary.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://travel-itinerary.streamlit.app/)
 
 ### How to run it on your own machine
 
